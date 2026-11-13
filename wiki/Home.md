@@ -18,3 +18,7 @@ RIG2U5 extends Blender's Rigify to build character rigs that work in Unreal Engi
 3. [U5 Metarig Workflow](U5-Metarig-Workflow): fit a metarig to your model and generate the full control rig.
 
 [Release Notes](Release-Notes) · [Bug Report & Support](Bug-Report-and-Support)
+
+## COMING SOON: Toon limb support
+
+![Toon limb support preview in Unreal Engine](https://raw.githubusercontent.com/3dcinetv/RIG2U5/main/docs/images/ToonLimbs-ComingSoon.png)
